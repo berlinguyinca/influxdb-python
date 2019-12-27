@@ -3,7 +3,7 @@
 
 import warnings
 
-import json
+import ujson as json
 import socket
 import requests
 import requests.exceptions

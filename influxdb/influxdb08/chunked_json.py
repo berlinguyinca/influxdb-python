@@ -11,7 +11,7 @@ from __future__ import division
 from __future__ import print_function
 from __future__ import unicode_literals
 
-import json
+import ujson as json
 
 
 def loads(s):
